@@ -1,0 +1,12 @@
+7Km
+
+chip esp32
+
+oled
+lora 	chip
+	antenna 2.4GHz
+battery
+io pins
+ freq 433MHz AND 868MHz to 915MHz heltec & TTGO
+
+	
